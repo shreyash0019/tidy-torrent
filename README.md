@@ -56,15 +56,12 @@ You can modify or expand these in the `extensions` dictionary.
 
 ---
 
-## 🤝 Contributing
+##  Contributing 🤍🤝
 Pull requests are welcome! If you have suggestions for improvements or want to support more file types, feel free to contribute.
 
 ---
 
-## 📜 License
-This project is open source and available under the [MIT License](LICENSE).
 
----
 
 ## 🙌 Author
 Made with 💻 by [Shreyash](https://github.com/shreyash0019)
